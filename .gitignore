@@ -1,0 +1,8 @@
+# Java / NetBeans
+/Java/build/
+/Java/dist/
+/Java/nbproject/private/
+
+# Ruby / VS Code
+.vscode/
+*.log
